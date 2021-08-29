@@ -1,6 +1,6 @@
 import time
 
-print("")
+print("Myname is abdullahi\nWellcome to use pick a number")
 
 play = int(input("pick a number?"))
 playing = 2
